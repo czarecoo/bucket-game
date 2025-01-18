@@ -9,12 +9,12 @@
     <version>1.0.0</version>
 
     <properties>
-        <gdx.version>1.12.1</gdx.version>
-        <java.version>22</java.version>
+        <gdx.version>1.13.1</gdx.version>
+        <java.version>21</java.version>
         <maven.compiler.source>${java.version}</maven.compiler.source>
         <maven.compiler.target>${java.version}</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <lombok.version>1.18.32</lombok.version>
+        <lombok.version>1.18.36</lombok.version>
     </properties>
 
     <dependencies>
